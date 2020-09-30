@@ -1,2 +1,4 @@
-astropy==3.2.3
-astroquery==0.4
+astropy
+astroquery
+pickle
+pyvo
